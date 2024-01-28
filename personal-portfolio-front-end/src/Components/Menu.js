@@ -1,5 +1,5 @@
 import React from "react";
-import profilephoto from "./ProfilePic.jpg";
+import profilephoto from "../Assest/ProfilePic.jpg";
 import "./StyleSheet/Menu.css";
 import {
   FcAbout,

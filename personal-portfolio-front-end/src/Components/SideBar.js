@@ -24,7 +24,7 @@ const SideBar = () => {
             <Menu toggle = {toggle}/>
         </div>
         <div className="container">
-          <Home />
+          <Home toggle={toggle}/>
         </div>
       </div>
     </>

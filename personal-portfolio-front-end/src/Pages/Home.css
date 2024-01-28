@@ -1,0 +1,58 @@
+.home-container{
+    color: white;
+    height: 35vh;
+    width: 90vw;
+    padding: 0px;
+    padding-top: 67px;
+}
+
+.home-container-toggle{
+    background-color: black;
+    color: white;
+    height: 35vh;
+    width: 80vw;
+    padding: 0px;
+    padding-top: 67px;
+    margin-left: 10vw;
+}
+
+
+.home-content h2{
+    color: yellow;
+}
+
+.home-container .home-btn{
+    padding: 0px;
+    margin-left: 44px;
+    margin-top: 20px;
+}
+
+.home-container-toggle .home-btn{
+    padding: 0px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.home-btn .btn-hire{
+    background-color: #3b8ff3;
+    color: white;
+    margin-right: 10px;   
+    width: 160px;
+}
+.home-btn .btn-resume{
+    background-color: #f29f67;
+    color: white;
+}
+
+.home-btn .btn-resume:hover{
+    opacity: 80%;
+    transition: 1s;
+}
+
+.home-btn .btn-hire:hover{
+    background-color:white ;
+    color: #3b8ff3;
+    margin-right: 10px;   
+    width: 200px;
+    transition: 1s;
+}
