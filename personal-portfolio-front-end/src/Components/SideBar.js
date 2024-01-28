@@ -1,5 +1,5 @@
 import React,{useState} from "react";
-import Home from "../Pages/Home";
+import Home from "../Pages/Home/Home";
 import { MdOutlineArrowForwardIos, MdOutlineArrowBackIosNew  } from "react-icons/md";
 import "./StyleSheet/SideBar.css";
 import Menu from "./Menu";

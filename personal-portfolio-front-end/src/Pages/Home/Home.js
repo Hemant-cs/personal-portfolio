@@ -1,7 +1,7 @@
 import React from "react";
 import "./Home.css";
 import Typewriter from "typewriter-effect";
-import Resume from "../Assest/HemantResume_1610.pdf"
+import Resume from "../../Assest/HemantResume_1610.pdf"
 
 const Home = ({ toggle }) => {
   return (
