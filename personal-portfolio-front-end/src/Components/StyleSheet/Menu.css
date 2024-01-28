@@ -1,0 +1,29 @@
+.menu-sidebar-profile-pic img {
+  border-radius: 400vh;
+  height: 100px;
+  width: 100px;
+  /* margin: 0px 45px 25px 25px; */
+  margin: 0px auto;
+  display: flex;
+  vertical-align: middle;
+}
+
+.navbar-item {
+  color: white;
+  margin-top: 10px;
+  /* text-align: center; */
+  margin-left: 55px;
+}
+
+.navbar-item {
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.navbar-item svg {
+  margin-right: 10px;
+}
+
+.navbar-item:hover{
+    color: deepskyblue;
+  }
