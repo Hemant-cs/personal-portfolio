@@ -1,0 +1,20 @@
+.tech-stack{
+    padding-left: 130px;
+    margin-top: 60px 0px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.tech-list{
+    margin-top: 20px;
+}
+
+.tech-stack hr{
+    color: #138781;
+    width: 400px;
+    margin: 10px auto;
+}
+
+.tech-stack h2{
+    font-weight: bold;
+    color: #138781;
+}
