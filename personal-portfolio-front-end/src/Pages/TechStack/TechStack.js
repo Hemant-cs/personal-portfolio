@@ -6,7 +6,7 @@ const TechStack = () => {
   return (
     <>
       <div className="tech-stack">
-        <h2 className="col-12 mt-3 mb-1 text-center">Technology Stack</h2>
+        <h2 className="col-12 mt-3 mb-1 text-center text-uppercase">Technology Stack</h2>
         <hr />
         <p className="pb-3 text-center">
           👉 Including programming Languages, Frameworks, Databases, Front-end
@@ -32,21 +32,6 @@ const TechStack = () => {
             </div>
           ))}
         </div>
-        {/* <ul className="tech-list">
-                    <li>👉 NodeJS & Express</li>
-                    <li>👉 JavaScript</li>
-                    <li>👉 ReactJS</li>
-                    <li>👉 HTML/CSS/BootStrap</li>
-                    <li>👉 Redux</li>
-                    <li>👉 AWS</li>
-                    <li>👉 MongoDB & DynamoDB</li>
-                    <li>👉 Git</li>
-                    <li>👉 GitHub & BitBucket</li>
-                    <li>👉 Unit Testing with Jest</li>
-                    <li>👉 Postman & SoapUi</li>
-                    <li>👉 Cloud9 & VSCode IDE</li>
-                    <li>👉 Elastic Search</li>
-                </ul> */}
       </div>
     </>
   );
