@@ -10,7 +10,7 @@ const Project = () => {
         </h2>
         <hr />
         <p className="pb-3 text-center">
-          Here are my top 3 recent project project with source code
+          Here are my top 3 recent project with source code
         </p>
         <div className="row" id="ads">
         {TopProject.map(project=>(<div className="col-md-4">
